@@ -1,0 +1,48 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+*.war
+*.ear
+
+# Build outputs
+dist/
+build/
+out/
+target/
+bin/
+obj/
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Misc
+coverage/
+*.tmp
+*.bak
+*.swp
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
